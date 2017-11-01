@@ -11,8 +11,3 @@ class Item
     "#{@name}, #{@sell_in}, #{@quality}"
   end
 end
-
-class Sulfuras < Item
-  def self.update(item)
-  end
-end
