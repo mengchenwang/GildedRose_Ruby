@@ -24,4 +24,4 @@ Author
 -------
 Mengchen Wang
 
-Original kata code was forked from: [GildedRose-Refactoring-Kata](https://github.com/mengchenwang/GildedRose-Refactoring-Kata).
+Original kata code was forked from: [GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata).
